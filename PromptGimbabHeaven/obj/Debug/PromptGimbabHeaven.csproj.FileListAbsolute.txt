@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\PromptGimbabHeaven\PromptGimbabHeaven\bin\Debug\PromptGimbabHeaven.exe.config
+C:\Users\User\Desktop\PromptGimbabHeaven\PromptGimbabHeaven\bin\Debug\PromptGimbabHeaven.exe
+C:\Users\User\Desktop\PromptGimbabHeaven\PromptGimbabHeaven\bin\Debug\PromptGimbabHeaven.pdb
+C:\Users\User\Desktop\PromptGimbabHeaven\PromptGimbabHeaven\obj\Debug\PromptGimbabHeaven.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PromptGimbabHeaven\PromptGimbabHeaven\obj\Debug\PromptGimbabHeaven.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\PromptGimbabHeaven\PromptGimbabHeaven\obj\Debug\PromptGimbabHeaven.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PromptGimbabHeaven\PromptGimbabHeaven\obj\Debug\PromptGimbabHeaven.exe
+C:\Users\User\Desktop\PromptGimbabHeaven\PromptGimbabHeaven\obj\Debug\PromptGimbabHeaven.pdb
